@@ -38,6 +38,6 @@ a documentation of my roadmap on pursuing mechanistic interpretability
 
 # references
 
-https://www.neelnanda.io/mechanistic-interpretability/getting-started
+https://www.neelnanda.io/mechanistic-interpretability/getting-started \\
 https://www.neelnanda.io/mechanistic-interpretability/prereqs
 
